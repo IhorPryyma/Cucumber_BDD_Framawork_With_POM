@@ -21,5 +21,5 @@ Scenario Outline: Login with valid username and password
 	
 Examples:
 	|username                  | password             |
-	| ihor.autolab@gmail.com   | Test@123autolab83    |
+	| ************@gmail.com   | *****************    |
 
